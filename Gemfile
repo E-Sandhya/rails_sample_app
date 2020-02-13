@@ -25,7 +25,7 @@ gem 'jbuilder', '~> 2.7'
 # gem 'bcrypt', '~> 3.1.7'
 gem 'bootstrap-sass', '3.3.6'
 # Use Active Storage variant
-gem 'bootstrap', '~>4.0.0'
+gem 'bootstrap', '~>4.3.1'
 # gem 'image_processing', '~> 1.2'
 gem 'rails-controller-testing'
 # Reduces boot times through caching; required in config/boot.rb
